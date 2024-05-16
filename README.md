@@ -77,7 +77,3 @@ Total Cost: 849.99
 
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request pour toute amélioration ou correction de bug.
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-```
